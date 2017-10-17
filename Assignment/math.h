@@ -20,4 +20,11 @@
 //Part of your documentation should be listing the valid inputs and outputs for the functions you create.
 int math(int num1, int num2, char Operator);
 
+int operation (multiplication, division, subtraction, addition);
+
+
+
+
+
 #endif /* MATH_H_ */
+
